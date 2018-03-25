@@ -1,0 +1,4 @@
+html {
+  background: linear-gradient(to bottom right, rgba(0, 255, 255, 0.5), blue);
+  height: 100%;
+}
